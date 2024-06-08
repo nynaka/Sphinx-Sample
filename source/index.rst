@@ -11,3 +11,4 @@ Sphinx Sample
    :caption: Contents:
 
    under_write
+   admonition_title
